@@ -1,6 +1,6 @@
 # Getting Started with this project
 
-## Available Scripts
+## Use the Scripts
 
 ### `npm install`
 
